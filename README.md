@@ -42,7 +42,7 @@ Siga os passos abaixo para rodar o projeto via terminal:
    
 ## Telas
 <p>
-  <img src="assets/juros-composto-1.png" alt="Tela Inicial" width="200"/>
+  <img src="assets/tela-inicial.png" alt="Tela Inicial" width="200"/>
   <img src="assets/juros-simples-1.png" alt="Tela juros simples 1" width="200"/>
   <img src="assets/juros-simples-2.png" alt="Tela juros simples 2" width="200"/>
   <img src="assets/juros-simples-3.png" alt="Tela juros simples 3" width="200"/>
